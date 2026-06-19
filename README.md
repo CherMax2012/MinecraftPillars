@@ -1,4 +1,5 @@
-###RU:
+**RU:**
+
 _Автор исходной карты - KcooLomg, я немного переделал эту карту, сократив место технической комнаты, добавив новые функции, а также предав ей большую совместимость._
 _______________________________________________
 **Как установить версию?**
@@ -10,7 +11,9 @@ _______________________________________________
 Все действия были выполнены в TLauncher
 
 
-###EN:
+
+**EN:**
+
 _The original map was created by KcooLomg. I've slightly reworked this map, reducing the space in the tech room, adding new features, and making it more compatible._
 _______________________________________________
 **How ​​do I install this version?**
