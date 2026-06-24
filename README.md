@@ -3,7 +3,7 @@
 **Как установить версию?**
 Это не просто карта, а готовая сборка Minecraft с установленными модами, мирами и датапаками.
 1. Скачайте архив с версией
-2. Распакуйте архив по пути %AppData\.minecraft\versions (это стандартное расположение папки с игрой, путь может отличаться)
+2. Распакуйте архив по пути %AppData%\.minecraft\versions (это стандартное расположение папки с игрой, путь может отличаться)
 3. Запустите сборку Minecraft с помощью лаунчера предварительно выбрав именно эту сборку.
 
 **Как играть по сети?**
@@ -21,7 +21,7 @@ _______________________________________________
 **How ​​do I install this version?**
 This isn't just a map, but a complete Minecraft build with mods, worlds, and datapacks installed.
 1. Download the version archive
-2. Unzip the archive to %AppData\.minecraft\versions (this is the default location of the game folder; the path may vary)
+2. Unzip the archive to %AppData%\.minecraft\versions (this is the default location of the game folder; the path may vary)
 3. Launch the Minecraft build using the launcher, selecting this build first.
 
 **How ​​to play online?**
