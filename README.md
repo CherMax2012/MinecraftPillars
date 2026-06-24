@@ -1,7 +1,5 @@
 **RU:**
 
-_Автор исходной карты - KcooLomg, я немного переделал эту карту, сократив место технической комнаты, добавив новые функции, а также предав ей большую совместимость._
-
 **Как установить версию?**
 Это не просто карта, а готовая сборка Minecraft с установленными модами, мирами и датапаками.
 1. Скачайте архив с версией
@@ -19,8 +17,6 @@ _Автор исходной карты - KcooLomg, я немного перед
 _______________________________________________
 
 **EN:**
-
-_The original map was created by KcooLomg. I've slightly reworked this map, reducing the space in the tech room, adding new features, and making it more compatible._
 
 **How ​​do I install this version?**
 This isn't just a map, but a complete Minecraft build with mods, worlds, and datapacks installed.
